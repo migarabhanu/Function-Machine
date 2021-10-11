@@ -1,2 +1,2 @@
 
-print(" still being develope")
+print(" still being developed")
